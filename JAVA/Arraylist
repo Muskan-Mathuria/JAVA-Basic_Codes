@@ -13,3 +13,5 @@ public class List {
         System.out.println(list);
         list.remove("Apple");
         System.out.println(list);
+}
+}
