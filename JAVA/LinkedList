@@ -16,3 +16,5 @@ public class linked {
         list.addLast(1);
         System.out.println(list);
         System.out.println(list.get(2));
+}
+}
